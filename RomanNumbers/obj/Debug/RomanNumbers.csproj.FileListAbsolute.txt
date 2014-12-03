@@ -1,0 +1,4 @@
+C:\Users\Innsa\Documents\Visual Studio 2012\Projects\RomanNumbers\RomanNumbers\bin\Debug\RomanNumbers.dll
+C:\Users\Innsa\Documents\Visual Studio 2012\Projects\RomanNumbers\RomanNumbers\bin\Debug\RomanNumbers.pdb
+C:\Users\Innsa\Documents\Visual Studio 2012\Projects\RomanNumbers\RomanNumbers\obj\Debug\RomanNumbers.dll
+C:\Users\Innsa\Documents\Visual Studio 2012\Projects\RomanNumbers\RomanNumbers\obj\Debug\RomanNumbers.pdb
